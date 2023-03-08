@@ -1,7 +1,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Sepide+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Sepide Welcome to my Profile! animated typed out">
 <img src="assests/borderseperator.gif">
-
-
+<p align="center"> 
+  <img src="assests/lofi.gif" alt="Lofi Nightlight scene" /> 
+</p>
 * 🌳 I’m currently learning Front-end! <br> 
 Actively Going through:<br>
   - Coursera: Meta Front-End Developer Professional Certificate<br>
@@ -14,6 +15,11 @@ Actively Going through:<br>
       . Anime 🌠 <br>
 
 <img src="assests/borderseperator.gif">
+
+
+<p align="center"> 
+  <img src="assests/room-lo-fi.gif" alt="Lofi Nightlight scene" /> 
+</p>
   <h3 align="center">Connect With Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sepide-rezayi-ba0a4b167/" target="_blank">
