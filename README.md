@@ -1,17 +1,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Sepide+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Sepide Welcome to my Profile! animated typed out">
 <img src="assests/borderseperator.gif">
 
+
 * 🌳 I’m currently learning Front-end! <br> 
 Actively Going through:<br>
   - Coursera: Meta Front-End Developer Professional Certificate<br>
   - Udemy : The Complete 2023 Web Development Bootcamp w/ Dr. Anegla Yu<br>
   - Build Responsive Real-World Websites with HTML and CSS w/Jonas Schmedtmann <br>
   - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
-
-
-
-
-
+* ☕ hobbies : <br>
+      . Coding 💻 <br>
+      . Reading Books and Manga 📖 <br>
+      . Anime 🌠 <br>
 
 <img src="assests/borderseperator.gif">
   <h3 align="center">Connect With Me</h3>
