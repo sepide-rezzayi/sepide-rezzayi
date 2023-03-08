@@ -16,7 +16,7 @@ Actively Going through:<br>
 <img src="assests/borderseperator.gif">
   <h3 align="center">Connect With Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/sepide-rezayi/" target="_blank">
+  <a href="https://www.linkedin.com/in/sepide-rezayi-ba0a4b167/" target="_blank">
     <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
   </a> &nbsp;&nbsp;
 
