@@ -7,7 +7,7 @@
 Actively Going through:<br>
   - Coursera: Meta Front-End Developer Professional Certificate<br>
   - Udemy : The Complete 2023 Web Development Bootcamp w/ Dr. Anegla Yu<br>
-  - Build Responsive Real-World Websites with HTML and CSS w/Jonas Schmedtmann <br>
+  - Build Responsive Real-World Websites with HTML and CSS w/Jonas Schmedtmann (finished the course ✔ ) <br>
   - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
 * ☕ hobbies : <br>
       . Coding 💻 <br>
