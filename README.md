@@ -11,7 +11,7 @@ Actively Going through:<br>
   - Udemy : The Complete 2023 Web Development Bootcamp w/ Dr. Anegla Yu<br>
   - Build Responsive Real-World Websites with HTML and CSS w/Jonas Schmedtmann (finished the course ✔ ) <br>
   - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
-  <img src="gif/R%20(2).gif" width="30px" height="30px">
+  <img src="gif/R%20(2).gif" width="30px" height="30px" display="inline">
    hobbies : <br>
       . Coding 💻 <br>
       . Reading Books and Manga 📖 <br>
